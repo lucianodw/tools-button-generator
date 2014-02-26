@@ -1,0 +1,592 @@
+[
+    {
+    "Description": "\u201cÜber-rich and super-concentrated.\u201d That\u2019s how our man in California describes this newly launched Pinot from California\u2019s cool Monterey County. Rich and velvety, it's loaded with aromas and flavors of cherry, spicy berries and elegant floral notes.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pinot-d'Oro-Pinot-Noir-2012/1753112",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1753112_T.jpg",
+    "Name": "Pinot d'Oro Pinot Noir",
+    "Rating": 4,
+    "Vintage": 2012,
+    "itemCode": "1753112",
+    "favorite": true,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": true,
+    "reccomendation": "ratings"
+    }, 
+    {
+    "Description": "As one of the state\u2019s \u201cbrightest stars,\u201d (Jancis Robinson) Charles Smith is a master of Washington Merlot. Made with hand-selected fruit from the Yakima Valley and beyond, this plummy gem is tasty with roast meats.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/CS-Charles-Smith-Merlot-2012/1714612",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1714612_T.jpg",
+    "Name": "CS Charles Smith Merlot",
+    "Rating": 4,
+    "Vintage": 2012,
+    "itemCode": "1714612",
+    "favorite": false,
+    "skuListPrice": 24.98,
+    "skuSalePrice": 19.98,
+    "cart": true,
+    "reccomendation": "ratings"
+    }, 
+    {
+    "Description": "This chic new arrival hails from the Loire Valley, where expert craftsmen in Saumur take advantage of the same climate and soils as Champagne. Made using the same traditional method, this find is bursting with delicate bubbles and berry flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Abbesse-de-Loire-Cr%E9mant-de-Loire-Ros%E9-2011/1704511",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1704511_T.jpg",
+    "Name": "Abbesse de Loire Crémant de Loire Rosé",
+    "Rating": 4,
+    "Vintage": 2011,
+    "itemCode": "1704511", 
+    "favorite": true,
+    "skuListPrice": 21.98,
+    "skuSalePrice": 19.98,
+    "cart": true,
+    "reccomendation": "ratings"
+},
+    {
+    "Description": "Delicious Cab from California\u2019s blockbuster 2012 and the Sierra Foothills, whose \"days as a regional secret are numbered,\" says Wine Spectator. The Kautz family\u2019s been there for decades \u2013 enjoy the bounty of their premium fruit.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Christine-Andrew-Cabernet-Sauvignon-2012/1700512",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1700512_T.jpg",
+    "Name": "Christine Andrew Cabernet Sauvignon",
+    "Rating": 4,
+    "Vintage": 2012,
+    "itemCode": "1700512",
+    "favorite": false,
+    "skuListPrice": 23.98,
+    "skuSalePrice": 19.98,
+    "cart": true,
+    "reccomendation": "ratings"
+
+}, {
+    "Description": "Don\u2019t miss out on this lip-smacking Merlot \u2013 it\u2019s a 'Best-of-Class' exclusive from one of the top names in Napa\u2019s Carneros district (we can\u2019t tell you who, as their regulars pay far more than you will). Barrel-aged, smooth and NOT to be missed.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Illustrious-Carneros-Merlot-2011/1698511",
+    "AttributesOrder": ["BV_FE_EXPAND", "BV_FE_FAMILY"],
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1698511_T.jpg",
+    "Name": "Illustrious Carneros Merlot",
+    "Rating": 4,
+    "Vintage": 2011,
+    "skuListPrice": 22.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1698511",
+    "favorite": true,
+    "cart": true,
+        "reccomendation": "ratings"
+
+
+}, {
+    "Description": "This beautifully mature Valdepeñas find from Pamela Geddes is made with some seriously old Tempranillo vines \u2013 some planted back in 1904. In the region's officially 'very good' 2006, they yielded a tiny amount of grapes brimming rich, ripe flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Castillo-Roquero-Reserva-2006/1681006",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1681006_T.jpg",
+    "Name": "Castillo Roquero Reserva",
+    "Rating": 4,
+    "Vintage": 2006,
+    "skuListPrice": 28.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1681006",
+    "favorite": true,
+    "cart":false,
+        "reccomendation": "ratings"
+
+
+    
+}, {
+    "Description": "From \"one of the best vintages California has seen for decades,\" (JancisRobinson.com) and Parker-rated winemaker Reed Renaudin comes this excellent 'prospect' \u2013 if you like super-rich, award-winning reds, that is.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/The-Prospector-2012/1680612",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1680612_T.jpg",
+    "Name": "The Prospector",
+    "Rating": 4,
+    "Vintage": 2012,
+    "itemCode": "1680612",   
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+        "reccomendation": "tasteography"
+
+
+}, {
+    "Description": "The newest edition to Parker-praised Reed Renaudin's exclusive Magpie series. This silky Merlot was crafted from hand-picked fruit in Sonoma\u2019s premium Bennett Valley, then aged a luxurious 38 months in fine French barrels. Pure class in your glass.",
+    "ProductPageUrl": "http://www.wsjwine.com/products/1675609",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1675609_T.jpg",
+    "Name": "The Magpie \"Lot #5\" Bennett Valley Merlot",
+    "Rating": 4,
+    "Vintage": 2012,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1675609",
+    "favorite": true,
+    "cart": false,
+            "reccomendation": "tasteography"
+
+
+
+}, {
+    "Description": "Hurry for a chance to taste the NEW Reserva release of a big Spanish favorite\n\u2013 already sporting two major gold medals. Inky Monastrell meets strawberry-rich Tempranillo. Don't miss this.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/El-Campeador-Reserva-2008/1675508",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1675508_T.jpg",
+    "Name": "El Campeador Reserva",
+    "Rating": 5,
+    "Vintage": 2008,
+    "itemCode": "1675508",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "tasteography"
+
+}, {
+    "Description": "Just a short stroll from Château Lafite (whose 2003 is $900+ a bottle), this acclaimed estate has \"an impressive track record for quality for close to 30 years\" (Parker). Their barrel-aged 2003 Cru Bourgeois has 10 medals and is an exceptional value.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Chateau-Ramage-La-Batisse-Haut-Medoc-2003/1648503",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1648503_T.jpg",
+    "Name": "Chateau Ramage La Batisse Haut Medoc",
+    "Rating": 4,
+    "Vintage": 2003,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1648503",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "ratings"
+
+
+
+}, {
+    "Description": "This rare, refreshing Rosato will show you exactly why Gianni Zonin was awarded Wine Enthusiast's 2013 Lifetime Achievement Award. Made in the uplifting, gently sparkling 'frizzante' style and brimming with bright red berry and Gala apple.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Ca'-Bolani-Frizzante-Rosato-NV/16465NV",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/16465NV_T.jpg",
+    "Name": "Ca' Bolani Frizzante Rosato",
+    "Rating": 4,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "Vintage": "NV",
+    "itemCode": "16465NV",
+    "favorite": true,
+    "cart": false,
+        "reccomendation": "preferences"
+
+
+
+}, {
+    "Description": "Nebbiolo is the great grape of Piedmont, responsible for the region's most expensive and age-worthy reds. This boutique, oak-aged version is made at a small, riverside estate and delivers all the class of pricier Nebbiolos, but is ready to drink now.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pietro-Disarti-Nebbiolo-d'Alba-2011/1645111",
+    "AttributesOrder": ["BV_FE_EXPAND", "BV_FE_FAMILY"],
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1645111_T.jpg",
+    "Name": "Pietro Disarti Nebbiolo d'Alba",
+    "Rating": 4,
+    "Vintage": 2011,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1645111",
+    "favorite": true,
+        "cart": false,
+        "reccomendation": "preferences"
+
+
+}, {
+    "Description": "There\u2019s no place like Provence for elegant rosé. From an exciting cellar on the Côte d\u2019Azur, this crisp, \u2018artful\u2019 NEW example brims with crushed berry and floral aromas, framed by juicy raspberry and cool wild herb flavors.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/L'Art-de-Provence-Rose-2012/1632712",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1632712_T.jpg",
+    "Name": "L'Art de Provence Rose",
+    "Rating": 4,
+    "Vintage": 2012,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1632712",
+    "favorite": true,
+        "cart": false,
+        "reccomendation": "preferences"
+
+
+}, {
+    "Description": "It may be an Italian specialty, but Vermentino also thrives (in tiny pockets!) down in Australia's cool-climate vineyards. This tropical-fruit-packed rarity comes from the talented Sam Trimboli and already has a top trophy and medal under its belt.",
+    "BrandExternalId": "WSJ",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Spotlight-Vermentino-2013/1596513",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1596513_T.jpg",
+    "Name": "Spotlight Vermentino",
+    "Rating": 4,
+    "Vintage": 2013,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1596513",
+    "favorite": true,
+        "cart": false,
+        "reccomendation": "preferences"
+
+
+}, {
+    "Description": "Alicante Bouschet is one of Portugal's shining red stars. Usually it's part of a blend, but the great José Neiva wanted to bottle his solo. You'll taste why with his 91-Point \"Best Buy\" Aluado \u2013 it's filled with juicy blackberry and cinnamon notes.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Aluado-Alicante-Bouschet-2012/1549712",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1549712_T.jpg",
+    "Name": "Aluado Alicante Bouschet",
+    "Rating": 3,
+    "Vintage": 2012,
+    "itemCode": "1549712",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Puglia's treasured Nero di Troia grape is steeped in legend. From the super-talented Mario Ercolino, this deep, dark NEW red is full of southern warmth. A winner (Berliner Wein Trophy) with rich pasta dishes or mature cheeses.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Corsiero-Nero-2011/1541011",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1541011_T.jpg",
+    "Name": "Corsiero Nero",
+    "Rating": 4,
+    "Vintage": 2011,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1541011",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Christian Moueix spent 38 years making legendary, $3,000-a-bottle Pétrus. What a coup to get hold of his sumptuous Private Reserve from this top Saint-Émilion village and 2009 \u2013 \u201cunquestionably the greatest vintage I have ever tasted.\u201d (Parker)",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1537009_T.jpg",
+    "Name": "J-P Moueix Lussac Saint Emilion",
+    "Rating": 4,
+    "itemCode": "1537009",
+    "favorite": false,
+    "Vintage": 2009,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "From a leading Chilean estate renowned for their varietally pure wines, this cool-climate, barrel-aged Reserva is a big step up from their delicious regular Chardonnay. Packed with citrus and mineral notes, with a kiss of oak. A real crowd-pleaser.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Gran-Tarapaca-Chardonnay-Reserva-2011/1524011",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1524011_T.jpg",
+    "Name": "Gran Tarapaca Chardonnay Reserva",
+    "Rating": 5,
+    "Vintage": 2011,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1524011",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "From the Chavarri family and their historic Tempranillo vineyards comes this decadent, beautifully mature, 12-year-old Gran Reserva. Luxuriously barrel aged, this rare find comes from one of Rioja's most sought-after vintages. Limited cases.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pagos-de-Tahola-Gran-Reserva-Rioja-2001/1519101",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1519101_T.jpg",
+    "Name": "Pagos de Tahola Gran Reserva Rioja",
+    "Rating": 4,
+    "Vintage": 2011,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1519101",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Crianzas are typically made to be enjoyed young. But to the dynamic Jean-Marc Sauboua (Haut-Brion trained, Parker-rated), rules were made to be broken. His 2003 (aged 14 months in French barrel) is deep, complex and filled with spiced berry flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Altos-de-la-Guardia-Crianza-Rioja-2003/1516103",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1516103_T.jpg",
+    "Name": "Altos de la Guardia Crianza Rioja",
+    "Rating": 4,
+    "Vintage": 2003,
+    "itemCode": "1516103",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "A lush Pinot Noir from 12-time \u201cWinery of the Year,\u201d DeLoach. Aged in fine French oak for 15 months, it has won wide acclaim, including 90 Points from Wine Enthusiast: \u201ca rich wine, filled with raspberry, cola and spice flavors.\u201d Only 400 cases made.",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1507508_T.jpg",
+    "Name": "Lionstone Selection De Loach Le Roi Pinot Noir 2008",
+    "Rating": 4,
+    "Vintage": 2008,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1507508",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+},
+    {
+    "Description": "\u201cÜber-rich and super-concentrated.\u201d That\u2019s how our man in California describes this newly launched Pinot from California\u2019s cool Monterey County. Rich and velvety, it's loaded with aromas and flavors of cherry, spicy berries and elegant floral notes.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pinot-d'Oro-Pinot-Noir-2012/1753112",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1753112_T.jpg",
+    "Name": "Pinot d'Oro Pinot Noir",
+    "Rating": 4,
+    "Vintage": 2008,
+    "itemCode": "1753112",
+    "favorite": true,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+    }, 
+    {
+    "Description": "As one of the state\u2019s \u201cbrightest stars,\u201d (Jancis Robinson) Charles Smith is a master of Washington Merlot. Made with hand-selected fruit from the Yakima Valley and beyond, this plummy gem is tasty with roast meats.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/CS-Charles-Smith-Merlot-2012/1714612",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1714612_T.jpg",
+    "Name": "CS Charles Smith Merlot",
+    "Rating": 4,
+    "Vintage": 2007,
+    "itemCode": "1714612",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+    }, 
+    {
+    "Description": "This chic new arrival hails from the Loire Valley, where expert craftsmen in Saumur take advantage of the same climate and soils as Champagne. Made using the same traditional method, this find is bursting with delicate bubbles and berry flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Abbesse-de-Loire-Cr%E9mant-de-Loire-Ros%E9-2011/1704511",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1704511_T.jpg",
+    "Name": "Abbesse de Loire Crémant de Loire Rosé",
+    "Rating": 4,
+    "Vintage": 2005,
+    "itemCode": "1704511", 
+    "favorite": true,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+    }, 
+    {
+    "Description": "Delicious Cab from California\u2019s blockbuster 2012 and the Sierra Foothills, whose \"days as a regional secret are numbered,\" says Wine Spectator. The Kautz family\u2019s been there for decades \u2013 enjoy the bounty of their premium fruit.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Christine-Andrew-Cabernet-Sauvignon-2012/1700512",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1700512_T.jpg",
+    "Name": "Christine Andrew Cabernet Sauvignon",
+    "Rating": 4,
+    "Vintage": 2011,
+    "itemCode": "1700512",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+}, {
+    "Description": "Don\u2019t miss out on this lip-smacking Merlot \u2013 it\u2019s a 'Best-of-Class' exclusive from one of the top names in Napa\u2019s Carneros district (we can\u2019t tell you who, as their regulars pay far more than you will). Barrel-aged, smooth and NOT to be missed.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Illustrious-Carneros-Merlot-2011/1698511",
+    "AttributesOrder": ["BV_FE_EXPAND", "BV_FE_FAMILY"],
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1698511_T.jpg",
+    "Name": "Illustrious Carneros Merlot",
+    "Rating": 4,
+    "Vintage": 2009,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1698511",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "This beautifully mature Valdepeñas find from Pamela Geddes is made with some seriously old Tempranillo vines \u2013 some planted back in 1904. In the region's officially 'very good' 2006, they yielded a tiny amount of grapes brimming rich, ripe flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Castillo-Roquero-Reserva-2006/1681006",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1681006_T.jpg",
+    "Name": "Castillo Roquero Reserva",
+    "Rating": 4,
+    "Vintage": 2008,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1681006",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+    
+}, {
+    "Description": "From \"one of the best vintages California has seen for decades,\" (JancisRobinson.com) and Parker-rated winemaker Reed Renaudin comes this excellent 'prospect' \u2013 if you like super-rich, award-winning reds, that is.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/The-Prospector-2012/1680612",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1680612_T.jpg",
+    "Name": "The Prospector",
+    "Rating": 4,
+    "Vintage": 2009,
+    "itemCode": "1680612",   
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "The newest edition to Parker-praised Reed Renaudin's exclusive Magpie series. This silky Merlot was crafted from hand-picked fruit in Sonoma\u2019s premium Bennett Valley, then aged a luxurious 38 months in fine French barrels. Pure class in your glass.",
+    "ProductPageUrl": "http://www.wsjwine.com/products/1675609",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1675609_T.jpg",
+    "Name": "The Magpie \"Lot #5\" Bennett Valley Merlot",
+    "Rating": 4,
+    "Vintage": 2002,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1675609",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Hurry for a chance to taste the NEW Reserva release of a big Spanish favorite\n\u2013 already sporting two major gold medals. Inky Monastrell meets strawberry-rich Tempranillo. Don't miss this.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/El-Campeador-Reserva-2008/1675508",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1675508_T.jpg",
+    "Name": "El Campeador Reserva",
+    "Rating": 5,
+    "Vintage": 2004,
+    "itemCode": "1675508",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Just a short stroll from Château Lafite (whose 2003 is $900+ a bottle), this acclaimed estate has \"an impressive track record for quality for close to 30 years\" (Parker). Their barrel-aged 2003 Cru Bourgeois has 10 medals and is an exceptional value.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Chateau-Ramage-La-Batisse-Haut-Medoc-2003/1648503",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1648503_T.jpg",
+    "Name": "Chateau Ramage La Batisse Haut Medoc",
+    "Rating": 4,
+    "Vintage": 2000,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1648503",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Nebbiolo is the great grape of Piedmont, responsible for the region's most expensive and age-worthy reds. This boutique, oak-aged version is made at a small, riverside estate and delivers all the class of pricier Nebbiolos, but is ready to drink now.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pietro-Disarti-Nebbiolo-d'Alba-2011/1645111",
+    "AttributesOrder": ["BV_FE_EXPAND", "BV_FE_FAMILY"],
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1645111_T.jpg",
+    "Name": "Pietro Disarti Nebbiolo d'Alba",
+    "Rating": 4,
+    "Vintage": 1998,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1645111",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "There\u2019s no place like Provence for elegant rosé. From an exciting cellar on the Côte d\u2019Azur, this crisp, \u2018artful\u2019 NEW example brims with crushed berry and floral aromas, framed by juicy raspberry and cool wild herb flavors.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/L'Art-de-Provence-Rose-2012/1632712",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1632712_T.jpg",
+    "Name": "L'Art de Provence Rose",
+    "Rating": 4,
+    "Vintage": 2013,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1632712",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "It may be an Italian specialty, but Vermentino also thrives (in tiny pockets!) down in Australia's cool-climate vineyards. This tropical-fruit-packed rarity comes from the talented Sam Trimboli and already has a top trophy and medal under its belt.",
+    "BrandExternalId": "WSJ",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Spotlight-Vermentino-2013/1596513",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1596513_T.jpg",
+    "Name": "Spotlight Vermentino",
+    "Rating": 4,
+    "Vintage": 2014,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1596513",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Alicante Bouschet is one of Portugal's shining red stars. Usually it's part of a blend, but the great José Neiva wanted to bottle his solo. You'll taste why with his 91-Point \"Best Buy\" Aluado \u2013 it's filled with juicy blackberry and cinnamon notes.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Aluado-Alicante-Bouschet-2012/1549712",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1549712_T.jpg",
+    "Name": "Aluado Alicante Bouschet",
+    "Rating": 3,
+    "Vintage": 2001,
+    "itemCode": "1549712",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Puglia's treasured Nero di Troia grape is steeped in legend. From the super-talented Mario Ercolino, this deep, dark NEW red is full of southern warmth. A winner (Berliner Wein Trophy) with rich pasta dishes or mature cheeses.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Corsiero-Nero-2011/1541011",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1541011_T.jpg",
+    "Name": "Corsiero Nero",
+    "Rating": 4,
+    "Vintage": 2005,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1541011",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Christian Moueix spent 38 years making legendary, $3,000-a-bottle Pétrus. What a coup to get hold of his sumptuous Private Reserve from this top Saint-Émilion village and 2009 \u2013 \u201cunquestionably the greatest vintage I have ever tasted.\u201d (Parker)",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1537009_T.jpg",
+    "Name": "J-P Moueix Lussac Saint Emilion",
+    "Rating": 4,
+    "itemCode": "1537009",
+    "favorite": false,
+    "Vintage": 1996,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "From a leading Chilean estate renowned for their varietally pure wines, this cool-climate, barrel-aged Reserva is a big step up from their delicious regular Chardonnay. Packed with citrus and mineral notes, with a kiss of oak. A real crowd-pleaser.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Gran-Tarapaca-Chardonnay-Reserva-2011/1524011",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1524011_T.jpg",
+    "Name": "Gran Tarapaca Chardonnay Reserva",
+    "Rating": 5,
+    "Vintage": 2002,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1524011",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "From the Chavarri family and their historic Tempranillo vineyards comes this decadent, beautifully mature, 12-year-old Gran Reserva. Luxuriously barrel aged, this rare find comes from one of Rioja's most sought-after vintages. Limited cases.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Pagos-de-Tahola-Gran-Reserva-Rioja-2001/1519101",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1519101_T.jpg",
+    "Name": "Pagos de Tahola Gran Reserva Rioja",
+    "Rating": 4,
+    "Vintage": 2008,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1519101",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "Crianzas are typically made to be enjoyed young. But to the dynamic Jean-Marc Sauboua (Haut-Brion trained, Parker-rated), rules were made to be broken. His 2003 (aged 14 months in French barrel) is deep, complex and filled with spiced berry flavor.",
+    "ProductPageUrl": "http://www.wsjwine.com/product/Altos-de-la-Guardia-Crianza-Rioja-2003/1516103",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1516103_T.jpg",
+    "Name": "Altos de la Guardia Crianza Rioja",
+    "Rating": 4,
+    "Vintage": 2009,
+    "itemCode": "1516103",
+    "favorite": false,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "cart": false,
+    "reccomendation": "preferences"
+
+}, {
+    "Description": "A lush Pinot Noir from 12-time \u201cWinery of the Year,\u201d DeLoach. Aged in fine French oak for 15 months, it has won wide acclaim, including 90 Points from Wine Enthusiast: \u201ca rich wine, filled with raspberry, cola and spice flavors.\u201d Only 400 cases made.",
+    "ImageUrl": "http://www.wsjwine.com/images/us/en/product/1507508_T.jpg",
+    "Name": "Lionstone Selection De Loach Le Roi Pinot Noir 2008",
+    "Rating": 4,
+    "Vintage": 2004,
+    "skuListPrice": 29.98,
+    "skuSalePrice": 19.98,
+    "itemCode": "1507508",
+    "favorite": true,
+    "cart": false,
+    "reccomendation": "preferences"
+}
+]

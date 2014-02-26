@@ -1,0 +1,420 @@
+<!doctype html>
+<html ng-app="wineCellarApp">
+
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard | Project Zulu</title>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/app.css" />
+  <script src="bower_components/modernizr/modernizr.js"></script>
+</head>
+
+<body>
+    <div class="row show-for-medium-up" id="header">
+      <!-- Display larger header for medium + resolutions -->
+    <div class="small-9 columns logo">
+        <img src="images/brand-logo.jpg"/>
+    </div>
+    <div class="small-3 columns text-center mini-cart">
+      <i class="fa fa-shopping-cart"></i> 8 bottles - $50.00 Savings
+        <a href="#" class="view-cart">View Cart</a>
+
+    </div>
+  </div>
+
+
+  <div class="row">
+   <nav class="top-bar" data-topbar>
+    <ul class="title-area hide-for-medium-up">
+      <li class="name"><h1><a href="#"><img src="images/brand.png"/></a></h1></li>
+      <li class="right"><i class="fi-shopping-cart large"></i></li>
+      <li class="toggle-search"><i class="fi-magnifying-glass large"></i></li>
+      <li class="toggle-topbar menu-icon"><a href="#"></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+
+      <ul class="left">
+
+        <li class="has-dropdown"> <a href="#">Latest offers</a> 
+          <ul class="dropdown">
+            <li><a href="#">Mixed cases</a></li>
+            <li><a href="#">Red wine</a></li>
+          </ul>
+        </li>
+
+        <li class="divider"></li>
+
+        <!-- Dropdown -->
+        <li class="has-dropdown not-click"><a href="http://zurb.com">Browse Wines</a>
+          <ul class="dropdown">
+            <li><label>Browse Wines</label></li>
+
+            <li class="has-dropdown not-click"><a href="#">By Grape</a>
+              <!-- Nested Dropdown -->
+              <ul class="dropdown">
+                <li><label>By Grape</label></li>
+                <li><a href="#">Chardonnay</a></li>
+                <li><a href="#">Merlot</a></li>
+              </ul>
+            </li>
+
+            <li class="has-dropdown not-click"><a href="#">By Country</a>
+              <!-- Nested Dropdown -->
+              <ul class="dropdown">
+                <li><label>By Country</label></li>
+                <li><a href="#">Australia</a></li>
+                <li><a href="#">France</a></li>
+              </ul>
+            </li>
+
+            <li class="has-dropdown not-click"><a href="#">By Style</a>
+              <!-- Nested Dropdown -->
+              <ul class="dropdown">
+                <li><label>By Style</label></li>
+                <li><a href="#">Red Wine</a></li>
+                <li><a href="#">White Wine</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
+          <!--<li class="divider"></li>
+          <li><a href="#">Mixed Cases</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Champagne &amp; Sparkling</a></li>
+          <li class="divider"></li>
+          <li><a href="#">Wine Plans</a></li>-->
+        </ul>
+        <ul class="right">
+          <li class="divider"></li>
+          <li class="has-dropdown active last"> <a href="dashboard.html">Your Account</a> 
+            <ul class="dropdown">
+              <li><a href="order-history.html">Order History</a></li>
+              <li><a href="#">Your Ratings</a></li>
+              <li><a href="#">Your Favourites</a></li>
+              <li><a href="#">Your Lists</a></li>
+            </ul>
+          </li>
+        </ul>
+
+      </section>
+    </nav>
+  </div>
+
+
+  <!-- Start content -->
+  <div class="row spacer">
+
+    <div class="small-12 hide-for-medium-up columns">
+      <h2>My Wine Cellar</h2>
+    </div>
+
+    <div class="hide-for-small-only" ng-include="'partials/mobile_side_nav.html'"></div>
+
+    <div class="medium-3 show-for-medium-up columns" ng-include="'partials/side_nav.html'"></div>
+
+
+    <!-- Dashboard for mobile -->
+    <div class="small-12 show-for-small-only columns">
+
+      <ul class="small-block-grid-2">
+        <li>
+          <div class="panel text-center">
+            <a href="order-history.html">Order History</a>
+          </div>
+        </li>
+
+        <li>
+          <div class="panel text-center">
+           <a href="subscriptions.html">Member<br>ships</a>
+         </div>
+       </li>
+     </ul>
+
+     
+
+
+     <table width="100%">
+      <tbody>
+        <tr>
+
+          <td><a href="lists.html#/wine-grid/purchased">Wines I've Purchased</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="lists.html#/wine-grid/favorites">My Favorites</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="lists.html#/wine-grid/top-rated">My Top Rated</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4 class="show-for-small-only">About My Account</h4>
+
+    <table width="100%">
+      <tbody>
+        <tr>
+
+          <td><a href="order-history.html">Order History</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="#">Preferences</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="#">Wine Clubs</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="subscriptions.html">Benefits / Memberships</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4 class="show-for-small-only">My Details</h4>
+
+    <table width="100%">
+      <tbody>
+
+        <tr>
+
+          <td><a href="#">Delivery</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="#">Billing</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="payment.html">Payment</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+        <tr>
+
+          <td><a href="#">Contact Information</a></td>
+          <td class="arrow" width="30"><a href="">»</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!-- End Mobile Dashboard -->
+
+
+  <div id="account-toolbar" class="medium-9 large-9 show-for-medium-up columns collapse">
+     <div class="medium-8 large-8 columns collapse">
+    <h4>Welcome Jake Rutter</h4>
+    <p>Based your <a href="preferences.html">preferences</a>, you like <a href="#">Big, Oak Reds</a> from <a href="#">France</a>.</p> 
+  </div>
+  <div id="account-balance" class="medium-4 large-4 columns collapse">
+    Available to Spend: $20.00
+    <p><a href="#">Shop Now</a></p>
+  </div>
+  </div>
+
+  <!--Dashboard for desktop and tablets-->
+  <div class="medium-9 large-9 show-for-medium-up columns">
+   
+    
+    <div id="dashboard-wines-like" class="small-12 text-center columns" ng-controller="dashboard">
+
+      <div class="medium-6 large-6 columns">
+          <h6 class="bold">Based on your recent ratings, we have selected these wines for you</h6>
+          <div class="medium-6 large-6 text-center columns" ng-repeat="wine in wines | limitTo:2 | orderBy:orderProp">
+            <div ng-include="'views/dashboard_targeter.html'"></div>
+          </div>
+
+      </div>
+
+      <div class="medium-6 large-6 columns" style="border-left:1px solid #efefef;">
+        <h5 class="bold">Recomended Mixed Case</h5>
+        <img src="images/mixed_case.png" width="90%"/>
+        <p>Based on what we know about you we've created a fantastic mixed case just for you.</p>
+        <p><b>12 bottles for $129.99</b> <br>You save $49.98</p>
+      </div>
+           
+    </div>
+
+
+    <ul class="small-block-grid-2 spacer-top">
+      <li>
+        <div class="panel img" style="background: url('images/wine-clubs.jpg') no-repeat 0 0">
+          <h5>Wine Clubs</h5>
+        </div>
+      </li>
+      <li>
+        <div class="panel img" style="background: url('images/subscriptions.jpg') no-repeat 0 0">
+          <h5>Subscriptions</h5>
+        </div>
+      </li>
+    </ul>
+
+        <h4 class="show-for-medium-up">My Wine Cellar</h4>
+
+
+      <dl data-tab="" class="radius tabs">
+        <dd class="active"><a href="#panel1">Wines I've Purchased</a></dd>
+        <dd><a href="#panel2">My Favourites</a></dd>
+        <dd><a href="#panel3">My Top Rated</a></dd>
+      </dl>
+      <div id="dashboard-tabs" class="tabs-content" ng-controller="dashboard">
+        <div id="panel1" class="content active">
+
+          <div class="small-12 text-center columns">
+
+          <div class="small-3 text-center columns" ng-repeat="wine in wines | limitTo:4 | orderBy:orderProp ">
+            <div ng-include="'views/dashboard_tab.html'"></div>
+          </div>
+            <div class="view-more small-12 text-center columns">
+              <h5><a href="/lists.html#/wine-grid/purchased">View all wines I've purchased »</a></h5>
+            </div>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div id="panel2" class="content">
+
+          
+          <div class="small-12 text-center columns">
+            <div class="small-3 text-center columns" ng-repeat="wine in wines | limitTo:4 | filter:{}">
+              <div ng-include="'views/dashboard_tab.html'"></div>
+            </div>
+            <div class="view-more small-12 text-center columns">
+            <h5><a href="/lists.html#/wine-grid/favorites">View all my favourites »</a></h5>
+            </div>
+
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div id="panel3" class="content">
+          
+          <div class="small-12 text-center columns">
+          <div class="small-3 text-center columns" ng-repeat="wine in wines | filter:{Rating : 5}">
+            <div ng-include="'views/dashboard_tab.html'"></div>
+          </div>
+
+           <div class="view-more small-12 text-center columns">
+            <h5><a href="/lists.html#/wine-grid/top-rated">View all my top rated wine »</a></h5>
+            </div>
+
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+
+    <h4>Order History - <small><a href="order-history.html">See all orders</a></small></h4>
+
+    <table width="100%">
+      <thead>
+        <tr>
+          <th>Order #</th>
+          <th>Date</th>
+          <th>Order Type</th>
+          <th>Order Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="list-orders.html">134222</a></td>
+          <td>12/29/13</td>
+          <td>Wine Club</td>
+          <td>Delivered</td>
+        </tr>
+        <tr>
+          <td><a href="list-orders.html">134222</a></td>
+          <td>12/29/13</td>
+          <td>Wine Club</td>
+          <td>Delivered</td>
+        </tr>
+        <tr>
+          <td><a href="list-orders.html">134222</a></td>
+          <td>12/29/13</td>
+          <td>Wine Club</td>
+          <td>Delivered</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+
+
+
+
+    
+
+
+  </div>
+</div>
+</div>
+
+<div class="row" ng-include="'partials/footer.html'"></div>
+
+<div id="productQuickView" class="reveal-modal" data-reveal>
+
+
+  <div class="row spacer">
+    <div class="small-4 medium-2 large-1 columns text-center"><img src="images/0171411_T.jpg"/></div>
+    <div class="small-8 medium-6 large-7 columns"> <h4>Cleanskin Cabernet Sauvignon Merlot Shiraz 2011</h4><p>Latest edition of our No.1 bestselling wine - now with over a decade of sumptuous success.
+      <br><a href="#">Learn more</a></p>
+      </div>
+
+      <div class="small-12 medium-4 large-4 columns">
+       <h4>From &#163;6.59 a bottle</h4>
+       <select>
+        <option value="1" selected="selected">Mixed (12 bottles)</option>
+        <option value="2">All-Reds (12 bottles)</option>
+        <option value="3">All-Whites (12 bottles)</option>
+      </select>
+      <a href="#" class="button expand">Add to Basket</a>
+
+    </div>
+    <a class="close-reveal-modal">&#215;</a>
+  </div>
+</div>
+
+<script src="bower_components/jquery/jquery.js"></script>
+<script src="bower_components/foundation/js/foundation.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+
+
+<!-- build:js scripts/modules.js -->
+<script src="bower_components/angular-resource/angular-resource.js"></script>
+<script src="bower_components/angular-cookies/angular-cookies.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="bower_components/angular-local-storage/angular-local-storage.js"></script>
+<script src="bower_components/ngModal/dist/ng-modal.js"></script>
+<!-- endbuild -->
+
+<!-- build:js({.tmp,app}) scripts/scripts.js -->
+<script src="js/app.js"></script>
+<script src="js/controllers.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/directives.js"></script>
+<!-- endbuild -->
+
+<script src="js/foundation_app.js"></script>
+</body>
+
+
+
+
+
+
+
+</html>

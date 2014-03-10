@@ -1,3 +1,8 @@
+// Libraries
+@import '../bower_components/sass-bootstrap/lib/bootstrap';
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+
+ 
 // Setup
 
 // Pages
@@ -5,3 +10,5 @@
 // Modules
 // @import "modules/nav";
 
+@import "modules/_main.scss";
+@import "modules/_button.scss";

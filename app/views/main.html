@@ -1,0 +1,53 @@
+<div class="header" ng-controller="MainCtrl">
+  <ul class="nav nav-pills pull-right">
+    <li><a ng-href="#/">Generator</a></li>
+    <li><a ng-href="#/library">Library</a></li>
+  </ul>
+  <h3 class="text-muted">Button Generator</h3>
+</div>
+
+<div class="btn-settings row">
+  <div class="col-md-4">
+    <label for="btn-size">Size</label>
+    <select ng-model="button.size" name="btn-size" id="btn-size" class="input-full form-control">
+      <option value="small" selected>Small</option>
+      <option value="medium">Medium</option>
+      <option value="large">Large</option>
+      <option value="xlarge">X-Large</option>
+    </select>
+  </div>
+
+  <div class="col-md-4">
+    <label for="btn-color">Color</label>
+    <select ng-model="button.color" name="btn-color" id="btn-color" class="input-full form-control">
+      <option value="law-red">LAW Default</option>
+      <option value="vir-red">VIR Default</option>
+      <option value="wsj-red" selected>WSJ Default</option>
+      <option value="zag-red">ZAG Default</option>
+      <option value="gen-blue">Generic Blue</option>
+      <option value="gen-green">Generic Green</option>
+    </select>
+  </div>
+
+  <div class="col-md-4">
+    <label for="btn-style">Style</label>
+    <select ng-model="button.style" name="btn-style" id="btn-style" class="input-full form-control">
+      <option value="flat" selected>Flat</option>
+      <option value="grad">Gradient</option>
+    </select>
+  </div> 
+
+  <div class="top20 col-md-12">
+    <input ng-model="button.text" name="btn-style" id="btn-style" class="input-full form-control" value=""/>
+  </div> 
+
+</div>
+
+<div class="btn-output clearfix">
+ <div class="col-md-12">
+  <h2>Output</h2>
+    <a href="" class="button button-{{button.size}} button-{{button.color}}-{{button.style}}">{{button.text}}</a>
+
+    <p class="class-name">.button .button-{{button.size}} .button-{{button.color}}-{{button.style}}</p>
+ </div>
+</div>

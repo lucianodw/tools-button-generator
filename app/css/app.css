@@ -4810,6 +4810,61 @@ a.button, a.button:visited, a.button:link {
   border-color: #c60000;
   color: white; }
 
+.button-gen-orange-grad {
+  background-color: #ff9900;
+  border-color: #ff9900;
+  color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #eb8d00;
+  background-image: -moz-linear-gradient(top, #ff9900, #cc7a00);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff9900), to(#cc7a00));
+  background-image: -webkit-linear-gradient(top, #ff9900, #cc7a00);
+  background-image: -o-linear-gradient(top, #ff9900, #cc7a00);
+  background-image: linear-gradient(to bottom, #ff9900, #cc7a00);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff9900', endColorstr='#ffcc7a00', GradientType=0);
+  border-color: #cc7a00 #cc7a00 #804d00;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  color: white; }
+
+.button-gen-orange-grad:hover, .button-gen-orange-grad:focus {
+  text-decoration: none;
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+  -moz-transition: background-position 0.1s linear;
+  -o-transition: background-position 0.1s linear;
+  transition: background-position 0.1s linear;
+  color: white; }
+
+.button-gen-orange-grad:hover, .button-gen-orange-grad:focus {
+  background-color: #cc7a00;
+  color: white; }
+
+.button-gen-orange-grad:active, .button-gen-orange-grad.active, .button-gen-orange-grad.active:hover {
+  background-color: #e68a00;
+  border-color: #cc7a00;
+  color: white; }
+
+.button-gen-orange-grad.disabled:hover, .button-gen-orange-grad.disabled:focus, .button-gen-orange-grad.disabled:active, .button-gen-orange-grad.disabled.active, .button-gen-orange-grad[disabled] .button-gen-orange-grad:hover, .button-gen-orange-grad[disabled] .button-gen-orange-grad:focus, .button-gen-orange-grad[disabled] .button-gen-orange-grad:active, .button-gen-orange-grad[disabled] .button-gen-orange-grad.active {
+  background-color: #ff9900;
+  border-color: #ff9900;
+  color: white; }
+
+.button-gen-orange-flat {
+  background-color: #ff9900;
+  border-color: #ff9900;
+  color: white; }
+
+.button-gen-orange-flat:hover, .button-gen-orange-flat:focus, .button-gen-orange-flat:active, .button-gen-orange-flat.active {
+  background-color: #e68a00;
+  border-color: #cc7a00;
+  color: white; }
+
+.button-gen-orange-flat.disabled:hover, .button-gen-orange-flat.disabled:focus, .button-gen-orange-flat.disabled:active, .button-gen-orange-flat.disabled.active, .button-gen-orange-flat[disabled]:hover, .button-gen-orange-flat[disabled]:focus, .button-gen-orange-flat[disabled]:active, .button-gen-orange-flat[disabled].active, fieldset[disabled] .button-gen-orange-flat:hover, fieldset[disabled] .button-gen-orange-flat:focus, fieldset[disabled] .button-gen-orange-flat:active, fieldset[disabled] .button-gen-orange-flat.active {
+  background-color: #ff9900;
+  border-color: #ff9900;
+  color: white; }
+
 .button-mini {
   font-size: 12px; }
 

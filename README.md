@@ -16,4 +16,4 @@ grunt serve
 ```
 
 ### Live Demo
-[Click to Demo the Tool](https://www.lucianodiaz.net/tool_button_generator)
+[Click to Demo the Tool](http://www.lucianodiaz.net/tool_button_generator)

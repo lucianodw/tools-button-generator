@@ -36,7 +36,7 @@ module.exports = function (grunt) {
         tasks: ['newer:jshint:test', 'karma']
       },
       compass: {
-        files: ['<%= yeoman.app %>/scss/{,*/}*.{scss,sass}'],
+        files: ['<%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
         tasks: ['compass:server', 'autoprefixer']
       },
       styles: {
@@ -146,8 +146,8 @@ module.exports = function (grunt) {
     // Compiles Sass to CSS and generates necessary files if requested
     compass: {
       options: {
-        sassDir: '<%= yeoman.app %>/scss',
-        cssDir: '.tmp/scss',
+        sassDir: '<%= yeoman.app %>/styles',
+        cssDir: '.tmp/styles',
         generatedImagesDir: '.tmp/images/generated',
         imagesDir: '<%= yeoman.app %>/images',
         javascriptsDir: '<%= yeoman.app %>/scripts',
@@ -292,8 +292,8 @@ module.exports = function (grunt) {
       },
       styles: {
         expand: true,
-        cwd: '<%= yeoman.app %>/scss',
-        dest: '.tmp/scss/',
+        cwd: '<%= yeoman.app %>/styles',
+        dest: '.tmp/styles/',
         src: '{,*/}*.css'
       }
     },
